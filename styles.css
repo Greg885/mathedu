@@ -14,16 +14,17 @@ main, footer {
 }
 
 header {
-    background-color: #000000;
-    color: #fff;
     text-align: center;
+    background-color: #000000;
+    color: #f0bd6a;
+    padding: 10px 0;
 }
 
 
 h2{
     text-align: center;
     text-decoration: underline;
-    color:#eee567;
+    color:#3e3e3e;
 }
 
 section {
@@ -38,8 +39,7 @@ ul {
 address {
     font-style: normal;
 }
-#contact{
-}
+
 
 footer {
     text-align: center;
